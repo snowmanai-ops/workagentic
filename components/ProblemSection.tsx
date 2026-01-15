@@ -7,17 +7,17 @@ const painPoints = [
     {
         icon: Clock,
         title: 'The Awkward Wait',
-        description: 'Deal closed Monday. And by Wednesday, the client is starting to get buyers remorse.',
+        description: "Deal closed Monday. Radio silence until Wednesday. By the time you finally send the kickoff email, buyer's remorse has already set in.",
     },
     {
         icon: FileWarning,
-        title: 'Manual Data Entry Error',
-        description: 'Copy-pasting details from PandaDoc to Slack to Asana to Hubspot to Stripe. It is insanity.',
+        title: 'The $1,000/Hour Data Clerk',
+        description: 'Every hour you spend syncing tools manually is an hour you aren\'t selling, strategizing, or scaling.',
     },
     {
         icon: Users,
         title: 'The "Who\'s on This?" Shuffle',
-        description: 'Team members asking "Did we onboard them yet?" while the client stares at an empty inbox.',
+        description: 'Your team: "Did you onboard them?" You: "I thought you did." The Client: Staring at an empty inbox wondering if they made a mistake.',
     },
 ];
 
@@ -27,10 +27,10 @@ export default function ProblemSection() {
             <div className="container mx-auto px-4">
                 <div className="max-w-3xl mx-auto text-center mb-16 space-y-4">
                     <h2 className="text-3xl md:text-5xl font-bold">
-                        The Hidden Cost of <span className="text-red-500">Manual Scaling</span>
+                        Great Results. <span className="text-red-500">Amateur Operations.</span>
                     </h2>
                     <p className="text-gray-400 text-lg">
-                        You're not losing clients because you're bad at delivery. You're losing them because your systems are not built for scale.
+                        You’re elite at delivery. Don't let messy onboarding kill your client's confidence before the work even starts.
                     </p>
                 </div>
 
