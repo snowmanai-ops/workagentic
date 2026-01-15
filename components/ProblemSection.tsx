@@ -17,7 +17,7 @@ const painPoints = [
     {
         icon: Users,
         title: 'The "Who\'s on This?" Shuffle',
-        description: 'Your team: "Did you onboard them?" You: "I thought you did." The Client: Staring at an empty inbox wondering if they made a mistake.',
+        description: 'Your team: "Did you onboard them?" You: "I thought you did." The Client: Staring at an empty inbox wondering if you were the wrong choice.',
     },
 ];
 
