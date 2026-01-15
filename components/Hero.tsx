@@ -27,12 +27,12 @@ export default function Hero() {
 
                     {/* Headline */}
                     <h1 className="text-5xl md:text-7xl font-bold tracking-tight leading-tight">
-                        The <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-300 to-brand-500 text-glow">One Click Onboarding System</span>
+                        Onboard New Clients in <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-300 to-brand-500 text-glow">30 Seconds Flat</span>
                     </h1>
 
                     {/* Subhead */}
                     <p className="text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed">
-                        Send the contract, create the payment link, build the project board, make the Slack channel, sync your CRM, and send the welcome email in 30 seconds.
+                        Send the contract, create the payment link, build the project board, make the Slack channel, sync your CRM, and send the welcome email with a single click.
                     </p>
 
                     {/* CTA Group */}
