@@ -32,7 +32,7 @@ export default function Hero() {
 
                     {/* Subhead */}
                     <p className="text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed">
-                        Write the contract, set up project management, and sync your CRM in 30 seconds.
+                        Send the contract, create the payment link, build the project board, make the Slack channel, sync your CRM, and send the welcome email in 30 seconds.
                     </p>
 
                     {/* CTA Group */}
