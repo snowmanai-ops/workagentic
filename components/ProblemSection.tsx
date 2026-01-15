@@ -27,7 +27,7 @@ export default function ProblemSection() {
             <div className="container mx-auto px-4">
                 <div className="max-w-3xl mx-auto text-center mb-16 space-y-4">
                     <h2 className="text-3xl md:text-5xl font-bold">
-                        Great Results. <span className="text-red-500">Amateur Operations.</span>
+                        Great Results. <span className="text-red-500">Fragile Systems.</span>
                     </h2>
                     <p className="text-gray-400 text-lg">
                         You’re elite at delivery. Don't let messy onboarding kill your client's confidence before the work even starts.
